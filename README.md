@@ -1,5 +1,3 @@
-## Hi there! I'm a:
+## Hi there! I'm an:
 
---> AI Safety enthusiast             
---> Ethical Hacking enthusiast 💻          
-
+AI Researcher
